@@ -4,7 +4,7 @@ I am Fawad, and I currently serve as the Chief Technology Officer (CTO) for stra
 
 My versatility shines through my experience as a software engineer, an enterprise architect, a sales professional, and a product leader. My educational background includes a Ph.D. in Electrical Engineering from the University of New South Wales (UNSW) in Australia, along with postgraduate research at Stanford University in the United States. These rich experiences and academic achievements position me as a dynamic leader in the technology landscape.
 
-I love learning and this is really a place where i contribute to the public what i think could be useful. I also run a blog called 'Ramdom Useful Notes' and helped thousands of people with different challanges. [Have a look.](https://randomusefulnotes.blogspot.com/)
+I have a passion for learning, and I actively contribute to the public by sharing useful insights. Additionally, I run a blog called ‘Random Useful Notes,’ where I’ve assisted thousands of people with various challenges. [Have a look.](https://randomusefulnotes.blogspot.com/)
 
 <!--
 **fawadnazir/fawadnazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
